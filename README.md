@@ -1,2 +1,2 @@
 # hw7
-midterm project 
+midterm project sketch
